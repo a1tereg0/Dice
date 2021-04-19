@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="roll_button_text">Roll</string>
+    <string name="roll_two_button_text">Roll Two</string>
+    <string name="label_for_dice_type">d</string>
+    <string name="add_dice_button_text">+</string>
+    <string name="hint_for_edit_text">Dice Sides</string>
+</resources>
