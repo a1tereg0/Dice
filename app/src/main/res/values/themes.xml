@@ -13,5 +13,10 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
         <item name="android:textColor">@color/color_secondary</item>
+        <item name="materialButtonStyle">@style/Buttons</item>
+    </style>
+    <style name="Buttons" parent="Widget.AppCompat.Button">
+        <item name="android:textStyle">italic|bold</item>
+        <item name="android:backgroundTint">@color/color_primary</item>
     </style>
 </resources>
