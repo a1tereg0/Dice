@@ -9,6 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="color_primary">#393e46</color>
     <color name="color_primary_variant">#222831</color>
-    <color name="text_color">#eeeeee</color>
+    <color name="color_secondary">#eeeeee</color>
     <color name="background_color">#00adb5</color>
 </resources>

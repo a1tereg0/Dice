@@ -54,8 +54,10 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:hint="@string/hint_for_edit_text"
+            android:inputType="number"
             android:textAlignment="center"
-            android:inputType="number" />
+            android:textColor="@color/color_secondary"
+            android:textColorHint="@color/color_secondary" />
 
         <Button
             android:id="@+id/add_dice_button"
